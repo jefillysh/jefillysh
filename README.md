@@ -1,20 +1,12 @@
 # Hi there! 👋 I'm Franklin Rodriguez
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=FullStack+Developer+%F0%9F%9A%80;3%2B+Years+Experience+%F0%9F%92%BC;JavaScript+%7C+TypeScript+%7C+React+%E2%9A%A1;Always+Learning+New+Tech+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
-
 ## 🚀 About Me
 
 ```javascript
 const franklin = {
   location: "Franklin 🇻🇪",
   currentRole: "FullStack Developer",
-  experience: "3+ years",
+  experience: "5+ years",
   passions: [
     "Web Development",
     "Mobile Apps",
@@ -34,33 +26,64 @@ const franklin = {
 
 <div align="center">
 
-### Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Databases
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Technologies
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=protocol&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-00D4AA?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+## 🏗️ Development Practices & Principles
+
+<div align="center">
+
+### Architecture & Design Patterns
+
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-FF6B6B?style=for-the-badge&logo=solid&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-2ECC71?style=for-the-badge&logo=code&logoColor=white)
+
+### 🎯 Core Development Values
+
+- **Clean Architecture** 🏗️ - Maintainable and scalable code structure
+- **SOLID Principles** 💎 - Object-oriented design principles
+- **Clean Code** ✨ - Readable, maintainable, and efficient code
+- **Test-Driven Development** 🧪 - Quality assurance through comprehensive testing
+- **Design Patterns** 🔄 - Proven solutions for common problems
 
 </div>
 
 ## 🏆 Professional Experience
+
+### 🚀 **Tudashboard** | Frontend & Product Developer
+
+_Mar 2025 → Present | Mérida, México (Remote)_
+
+- 🎨 **Product Development**: Leading frontend development and product design initiatives
+- 🔧 **Feature Implementation**: Building new features and improving user experience
+- 📊 **Product Strategy**: Contributing to product roadmap and technical decisions
+- 🤝 **Cross-functional Collaboration**: Working closely with design and backend teams
 
 ### 🎯 **Question Pro** | FullStack Developer
 
