@@ -62,12 +62,3 @@ I am a strong advocate for **Clean Code**, **SOLID principles**, and **Test-Driv
 **Emerging Tech**  
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=protocol&logoColor=white)
 ![AI Integration](https://img.shields.io/badge/AI_Integration-00D4AA?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franklinserif&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Franklin's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franklinserif&layout=compact&theme=minimal&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
-</div>
