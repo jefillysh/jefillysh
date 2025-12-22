@@ -2,6 +2,8 @@
   <h1>Franklin Rodriguez</h1>
   <h3>Frontend & Product Developer</h3>
   
+  <img src="banner.png" alt="Banner" width="100%" />
+
   <p>
     <a href="https://www.linkedin.com/in/franklinserif/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
